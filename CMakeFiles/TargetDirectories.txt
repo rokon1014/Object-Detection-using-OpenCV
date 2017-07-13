@@ -1,0 +1,2 @@
+/home/spacemaster09/code/CMakeFiles/object.dir
+/home/spacemaster09/code/CMakeFiles/object_click.dir
